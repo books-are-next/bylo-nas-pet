@@ -1,0 +1,123 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Bylo nás pět",
+    "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
+    "author": "Karel Poláček",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2021-09-13T18:21:39.837Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_001.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_002.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_003.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_004.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_005.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_006.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_007.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_008.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_009.htm"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Bylo_nas_pet_010.htm"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+    },
+    {
+      "type": "application/x-font-ttf",
+      "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Upozornění pro čtenáře",
+      "href": "OEBPS/Text/Bylo_nas_pet_005.htm"
+    },
+    {
+      "title": "1/2/3/4/5",
+      "href": "OEBPS/Text/Bylo_nas_pet_006.htm"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Text/Bylo_nas_pet_007.htm"
+    },
+    {
+      "title": "Bibliografie díla Karla Poláčka",
+      "href": "OEBPS/Text/Bylo_nas_pet_008.htm"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/Bylo_nas_pet_009.htm"
+    }
+  ]
+}
