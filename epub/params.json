@@ -22,7 +22,7 @@
       "brAfter": "",
       "blockquote": "",
       "figure": "",
-      "em": "calibre4\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
+      "em": "e-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
       "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
       "remove": "",
       "ignore": ""
@@ -131,7 +131,7 @@
       "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-14T12:12:25.113Z"
+      "modified": "2021-09-14T17:37:30.257Z"
     },
     "chapters": [
       {
@@ -279,7 +279,10 @@
       "wordsection3",
       "wordsection4"
     ],
-    "github": null,
-    "generatedAt": 1631621546826
+    "github": {
+      "user": "books-are-next",
+      "repo": "bylo-nas-pet"
+    },
+    "generatedAt": 1631641051177
   }
 }
