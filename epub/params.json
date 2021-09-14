@@ -29,7 +29,7 @@
     },
     "structure": [
       {
-        "filename": "Bylo_nas_pet_001.md",
+        "filename": "bylo_nas_pet_001.md",
         "xhtml": "Bylo_nas_pet_001.htm",
         "id": 0,
         "role": "break",
@@ -38,7 +38,7 @@
         "children": []
       },
       {
-        "filename": "Bylo_nas_pet_002.md",
+        "filename": "bylo_nas_pet_002.md",
         "xhtml": "Bylo_nas_pet_002.htm",
         "id": 1,
         "role": "break",
@@ -47,7 +47,7 @@
         "children": []
       },
       {
-        "filename": "Bylo_nas_pet_003.md",
+        "filename": "bylo_nas_pet_003.md",
         "xhtml": "Bylo_nas_pet_003.htm",
         "id": 2,
         "role": "colophon",
@@ -56,7 +56,7 @@
         "children": []
       },
       {
-        "filename": "Bylo_nas_pet_004.md",
+        "filename": "bylo_nas_pet_004.md",
         "xhtml": "Bylo_nas_pet_004.htm",
         "id": 3,
         "role": "colophon",
@@ -65,7 +65,7 @@
         "children": []
       },
       {
-        "filename": "Bylo_nas_pet_005.md",
+        "filename": "bylo_nas_pet_005.md",
         "xhtml": "Bylo_nas_pet_005.htm",
         "id": 4,
         "role": "chapter",
@@ -75,7 +75,7 @@
         "title": "Upozornění pro čtenáře"
       },
       {
-        "filename": "Bylo_nas_pet_006.md",
+        "filename": "bylo_nas_pet_006.md",
         "xhtml": "Bylo_nas_pet_006.htm",
         "id": 5,
         "role": "chapter",
@@ -85,7 +85,7 @@
         "title": "1/2/3/4/5"
       },
       {
-        "filename": "Bylo_nas_pet_007.md",
+        "filename": "bylo_nas_pet_007.md",
         "xhtml": "Bylo_nas_pet_007.htm",
         "id": 6,
         "role": "chapter",
@@ -95,7 +95,7 @@
         "title": "Ediční poznámka"
       },
       {
-        "filename": "Bylo_nas_pet_008.md",
+        "filename": "bylo_nas_pet_008.md",
         "xhtml": "Bylo_nas_pet_008.htm",
         "id": 7,
         "role": "chapter",
@@ -105,7 +105,7 @@
         "title": "Bibliografie díla Karla Poláčka"
       },
       {
-        "filename": "Bylo_nas_pet_009.md",
+        "filename": "bylo_nas_pet_009.md",
         "xhtml": "Bylo_nas_pet_009.htm",
         "id": 8,
         "role": "chapter",
@@ -115,7 +115,7 @@
         "title": "Poznámky pod čarou"
       },
       {
-        "filename": "Bylo_nas_pet_010.md",
+        "filename": "bylo_nas_pet_010.md",
         "xhtml": "Bylo_nas_pet_010.htm",
         "id": 9,
         "role": "colophon",
@@ -131,67 +131,67 @@
       "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-14T07:59:16.147Z"
+      "modified": "2021-09-14T12:12:25.113Z"
     },
     "chapters": [
       {
         "titleSuggest": "",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_001.md",
+        "filename": "bylo_nas_pet_001.md",
         "xhtml": "Bylo_nas_pet_001.htm"
       },
       {
         "titleSuggest": "",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_002.md",
+        "filename": "bylo_nas_pet_002.md",
         "xhtml": "Bylo_nas_pet_002.htm"
       },
       {
         "titleSuggest": "",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_003.md",
+        "filename": "bylo_nas_pet_003.md",
         "xhtml": "Bylo_nas_pet_003.htm"
       },
       {
         "titleSuggest": "",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_004.md",
+        "filename": "bylo_nas_pet_004.md",
         "xhtml": "Bylo_nas_pet_004.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Upozornění pro čtenáře",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_005.md",
+        "filename": "bylo_nas_pet_005.md",
         "xhtml": "Bylo_nas_pet_005.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1/2/3/4/5",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_006.md",
+        "filename": "bylo_nas_pet_006.md",
         "xhtml": "Bylo_nas_pet_006.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční\npoznámka",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_007.md",
+        "filename": "bylo_nas_pet_007.md",
         "xhtml": "Bylo_nas_pet_007.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bibliografie díla Karla Poláčka",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_008.md",
+        "filename": "bylo_nas_pet_008.md",
         "xhtml": "Bylo_nas_pet_008.htm"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_009.md",
+        "filename": "bylo_nas_pet_009.md",
         "xhtml": "Bylo_nas_pet_009.htm"
       },
       {
         "titleSuggest": "",
         "subtitleSuggest": "",
-        "filename": "Bylo_nas_pet_010.md",
+        "filename": "bylo_nas_pet_010.md",
         "xhtml": "Bylo_nas_pet_010.htm"
       }
     ],
@@ -279,10 +279,7 @@
       "wordsection3",
       "wordsection4"
     ],
-    "github": {
-      "user": "books-are-next",
-      "repo": "bylo-nas-pet"
-    },
-    "generatedAt": 1631606356940
+    "github": null,
+    "generatedAt": 1631621546826
   }
 }
