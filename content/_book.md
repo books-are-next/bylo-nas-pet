@@ -1,9 +1,26 @@
 ---
 outputs: meta
 slug: book
-languageCode: en
-chapters: []
-tocBase: null
+languageCode: cs
+meta:
+  title: Bylo nás pět
+  identifier: dd3ea8b5-28f4-41d1-a8be-842f38d0ff23
+  author: Karel Poláček
+  publisher: Městská knihovna v Praze
+  modified: '2021-09-13T18:21:39.837Z'
+  languageCode: cs
+chapters:
+  - Bylo_nas_pet_001.html
+  - Bylo_nas_pet_002.html
+  - Bylo_nas_pet_003.html
+  - Bylo_nas_pet_004.html
+  - Bylo_nas_pet_005.html
+  - Bylo_nas_pet_006.html
+  - Bylo_nas_pet_007.html
+  - Bylo_nas_pet_008.html
+  - Bylo_nas_pet_009.html
+  - Bylo_nas_pet_010.html
+tocBase: []
 static:
   - style
   - scripts

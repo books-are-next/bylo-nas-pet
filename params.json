@@ -1,11 +1,132 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Bylo nás pět",
+      "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
+      "author": "Karel Poláček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-13T18:21:39.837Z",
+      "languageCode": "cs"
+    },
+    "elements": {
+      "title": "e-booknadpis",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "e-bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "calibre4\ne-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
+      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "Bylo_nas_pet_001.md",
+        "xhtml": "Bylo_nas_pet_001.htm",
+        "id": 0,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_002.md",
+        "xhtml": "Bylo_nas_pet_002.htm",
+        "id": 1,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_003.md",
+        "xhtml": "Bylo_nas_pet_003.htm",
+        "id": 2,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_004.md",
+        "xhtml": "Bylo_nas_pet_004.htm",
+        "id": 3,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_005.md",
+        "xhtml": "Bylo_nas_pet_005.htm",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_006.md",
+        "xhtml": "Bylo_nas_pet_006.htm",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_007.md",
+        "xhtml": "Bylo_nas_pet_007.htm",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_008.md",
+        "xhtml": "Bylo_nas_pet_008.htm",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_009.md",
+        "xhtml": "Bylo_nas_pet_009.htm",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      },
+      {
+        "filename": "Bylo_nas_pet_010.md",
+        "xhtml": "Bylo_nas_pet_010.htm",
+        "id": 9,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": []
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Bylo nás pět",
       "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-13T18:21:39.837Z"
+      "modified": "2021-09-14T07:59:16.147Z"
     },
     "chapters": [
       {
@@ -157,6 +278,6 @@
       "user": "books-are-next",
       "repo": "bylo-nas-pet"
     },
-    "generatedAt": 1631557300587
+    "generatedAt": 1631606356940
   }
 }
