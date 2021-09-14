@@ -12,15 +12,22 @@ meta:
 chapters:
   - Bylo_nas_pet_001.html
   - Bylo_nas_pet_002.html
-  - Bylo_nas_pet_003.html
-  - Bylo_nas_pet_004.html
   - Bylo_nas_pet_005.html
   - Bylo_nas_pet_006.html
   - Bylo_nas_pet_007.html
   - Bylo_nas_pet_008.html
   - Bylo_nas_pet_009.html
-  - Bylo_nas_pet_010.html
-tocBase: []
+tocBase:
+  - link: Bylo_nas_pet_005.html
+    title: Upozornění pro čtenáře
+  - link: Bylo_nas_pet_006.html
+    title: 1/2/3/4/5
+  - link: Bylo_nas_pet_007.html
+    title: Ediční poznámka
+  - link: Bylo_nas_pet_008.html
+    title: Bibliografie díla Karla Poláčka
+  - link: Bylo_nas_pet_009.html
+    title: Poznámky pod čarou
 static:
   - style
   - scripts
