@@ -1913,7 +1913,7 @@ Eva, celá rozpálená, oči navrch hlavy, povídá: „Ale oni přece spolu cho
 
 „Když chodí, tak ať chodí,“ pravil jsem lhostejným hlasem.
 
-„Jéžiš, Péťo,“ vzkřikla Eva, „jak můžeš tak hloupě mluvit! Ale oni spolu __doopravdy__ chodí!“
+„Jéžiš, Péťo,“ vzkřikla Eva, „jak můžeš tak hloupě mluvit! Ale oni spolu _doopravdy_ chodí!“
 
 „Cože?“ podivil jsem se. „Že by se Pepek Zilvar zahodil s nějakou princeznou, to přece nemůže být. To bych ho nesměl znát.“
 
