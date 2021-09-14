@@ -11,7 +11,7 @@ Karel Poláček
 
 ***
 
-Znění tohoto textu vychází z díla Bylo nás pět tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1979 (POLÁČEK, Karel. __Bylo nás pět.__ Vydání dvanácté, v ČS šesté. Praha: Československý spisovatel, 1979. 219 s.).
+Znění tohoto textu vychází z díla Bylo nás pět tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1979 (POLÁČEK, Karel. _Bylo nás pět._ Vydání dvanácté, v ČS šesté. Praha: Československý spisovatel, 1979. 219 s.).
 
 Autor portrétu Karla Poláčka na obálce e-knihy je neznámý.
 
