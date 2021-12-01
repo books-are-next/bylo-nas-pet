@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Bylo nás pět",
@@ -6,7 +7,9 @@
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-13T18:21:39.837Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "e-booknadpis",
@@ -32,7 +35,7 @@
         "filename": "bylo_nas_pet_001.md",
         "xhtml": "Bylo_nas_pet_001.htm",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -286,3 +289,4 @@
     "generatedAt": 1631641051177
   }
 }
+
