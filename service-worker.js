@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-8c525a0';
+const CACHE = 'cache-0ceb29b';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./bylo_nas_pet_001.html","./bylo_nas_pet_002.html","./bylo_nas_pet_005.html","./bylo_nas_pet_006.html","./bylo_nas_pet_007.html","./bylo_nas_pet_008.html","./bylo_nas_pet_009.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./resources/image001.jpg","./resources/image002.jpg","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./bylo_nas_pet_001.html","./bylo_nas_pet_005.html","./bylo_nas_pet_006.html","./bylo_nas_pet_002.html","./bylo_nas_pet_007.html","./colophon.html","./bylo_nas_pet_009.html","./bylo_nas_pet_008.html","./favicon.png","./index.html","./manifest.json","./resources.html","./scripts/bundle.js","./style/style.min.css","./resources/image001.jpg","./resources/image002.jpg","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg"]));
 }
 
 self.addEventListener('fetch', e => {
