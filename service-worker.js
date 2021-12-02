@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-dd0b8dc';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-c0df3ba';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./bylo_nas_pet_001.html","./bylo_nas_pet_002.html","./bylo_nas_pet_005.html","./bylo_nas_pet_006.html","./bylo_nas_pet_007.html","./bylo_nas_pet_009.html","./bylo_nas_pet_008.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./resources/image001.jpg","./resources/image002.jpg","./resources/index.xml","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./bylo_nas_pet_002.html","./bylo_nas_pet_005.html","./bylo_nas_pet_006.html","./bylo_nas_pet_007.html","./bylo_nas_pet_008.html","./bylo_nas_pet_009.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image002.jpg","./resources/obalka.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

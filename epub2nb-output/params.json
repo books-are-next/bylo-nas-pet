@@ -1,0 +1,290 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Bylo nás pět",
+      "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
+      "author": "Karel Poláček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-09-13T18:21:39.837Z",
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
+    },
+    "elements": {
+      "title": "e-booknadpis",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "e-bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "e-booktirazacitacetextkurzivachar\ne-bookversebezpredsazeni6bzakurziva",
+      "strong": "e-booktiraztexttucnechar\ne-booktirazautoradilo",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "filename": "bylo_nas_pet_001.md",
+        "xhtml": "Bylo_nas_pet_001.htm",
+        "id": 0,
+        "role": "cover",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "bylo_nas_pet_002.md",
+        "xhtml": "Bylo_nas_pet_002.htm",
+        "id": 1,
+        "role": "break",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "bylo_nas_pet_003.md",
+        "xhtml": "Bylo_nas_pet_003.htm",
+        "id": 2,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "bylo_nas_pet_004.md",
+        "xhtml": "Bylo_nas_pet_004.htm",
+        "id": 3,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      },
+      {
+        "filename": "bylo_nas_pet_005.md",
+        "xhtml": "Bylo_nas_pet_005.htm",
+        "id": 4,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Upozornění pro čtenáře"
+      },
+      {
+        "filename": "bylo_nas_pet_006.md",
+        "xhtml": "Bylo_nas_pet_006.htm",
+        "id": 5,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "1/2/3/4/5"
+      },
+      {
+        "filename": "bylo_nas_pet_007.md",
+        "xhtml": "Bylo_nas_pet_007.htm",
+        "id": 6,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Ediční poznámka"
+      },
+      {
+        "filename": "bylo_nas_pet_008.md",
+        "xhtml": "Bylo_nas_pet_008.htm",
+        "id": 7,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Bibliografie díla Karla Poláčka"
+      },
+      {
+        "filename": "bylo_nas_pet_009.md",
+        "xhtml": "Bylo_nas_pet_009.htm",
+        "id": 8,
+        "role": "chapter",
+        "numberedChildren": false,
+        "inToc": true,
+        "children": [],
+        "title": "Poznámky pod čarou"
+      },
+      {
+        "filename": "bylo_nas_pet_010.md",
+        "xhtml": "Bylo_nas_pet_010.htm",
+        "id": 9,
+        "role": "colophon",
+        "numberedChildren": false,
+        "inToc": false,
+        "children": []
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Bylo nás pět",
+      "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
+      "author": "Karel Poláček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T08:40:08.618Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_001.md",
+        "xhtml": "Bylo_nas_pet_001.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_002.md",
+        "xhtml": "Bylo_nas_pet_002.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_003.md",
+        "xhtml": "Bylo_nas_pet_003.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_004.md",
+        "xhtml": "Bylo_nas_pet_004.htm"
+      },
+      {
+        "titleSuggest": "Upozornění pro čtenáře",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_005.md",
+        "xhtml": "Bylo_nas_pet_005.htm"
+      },
+      {
+        "titleSuggest": "1/2/3/4/5",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_006.md",
+        "xhtml": "Bylo_nas_pet_006.htm"
+      },
+      {
+        "titleSuggest": "Ediční\npoznámka",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_007.md",
+        "xhtml": "Bylo_nas_pet_007.htm"
+      },
+      {
+        "titleSuggest": "Bibliografie díla Karla Poláčka",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_008.md",
+        "xhtml": "Bylo_nas_pet_008.htm"
+      },
+      {
+        "titleSuggest": "Poznámky pod čarou",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_009.md",
+        "xhtml": "Bylo_nas_pet_009.htm"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "bylo_nas_pet_010.md",
+        "xhtml": "Bylo_nas_pet_010.htm"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Bold.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua-Italic.ttf"
+      },
+      {
+        "type": "application/x-font-ttf",
+        "href": "OEBPS/Fonts/Book-Antiqua.ttf"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre10",
+      "calibre14",
+      "calibre15",
+      "calibre4",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "calibre9",
+      "e-bookhvezdickystred",
+      "e-booklicenceobrazek",
+      "e-booklicencetext",
+      "e-booklicencetextchar",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-bookodsazeniodstavcepred",
+      "e-bookodsazeniodstavcepredaza",
+      "e-bookodsazeniodstavceza",
+      "e-bookprozatext",
+      "e-bookprozatextdoprava",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "e-bookzalozkyhorniindex9bchar",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "bylo-nas-pet"
+    },
+    "generatedAt": 1638434409533
+  }
+}
