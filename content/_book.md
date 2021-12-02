@@ -9,14 +9,16 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-13T18:21:39.837Z'
   languageCode: cs
-chapters:
-  - bylo_nas_pet_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - bylo_nas_pet_002.html
   - bylo_nas_pet_005.html
   - bylo_nas_pet_006.html
   - bylo_nas_pet_007.html
   - bylo_nas_pet_008.html
   - bylo_nas_pet_009.html
+  - colophon.html
 tocBase:
   - link: bylo_nas_pet_005.html
     title: Upozornění pro čtenáře
@@ -34,5 +36,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
