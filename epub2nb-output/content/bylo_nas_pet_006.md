@@ -1,5 +1,6 @@
 ---
 title: 1/2/3/4/5
+contentType: prose
 ---
 
 Do školy chodím každý den kolem jednopatrového domu, na kterém je štít s nápisem Martin Bejval. A pod tím jest tiskacím písmem napsáno: Povoznictví a obchod uhlím. Ten nápis je modře a červeně vymalovaný a po obou stranách jsou zkřížená kladívka, což se mi velice líbí. Ale ještě více se mně líbí koňská hlava, co je přidělaná mezi dvěma okny v prvním patře. Když jsem byl malý, tak se mně ta hlava nic, ale docela nic nelíbila, jelikož jsem se jí bál. Ona má pořád otevřenou hubu a cení zuby. Ušklíbá se tak, jako by na mne něco věděla, počkej, ty kluku nezdárná, já to na tebe řeknu. Chodil jsem na ni žalovat, že se v jednom kuse na mne šklebí a já jí přece nic nedělám. To ona pořád začíná, ať si to nechá! Maminka mne musila chlácholit a pravila, že ta hlava mně nic nemůže udělat, jelikož je dřevěná.

@@ -43,7 +43,7 @@
         "filename": "bylo_nas_pet_002.md",
         "xhtml": "Bylo_nas_pet_002.htm",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": []
@@ -133,7 +133,7 @@
       "identifier": "dd3ea8b5-28f4-41d1-a8be-842f38d0ff23",
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T08:40:08.618Z"
+      "modified": "2016-09-22T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -173,7 +173,7 @@
         "xhtml": "Bylo_nas_pet_006.htm"
       },
       {
-        "titleSuggest": "Ediční\npoznámka",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "bylo_nas_pet_007.md",
         "xhtml": "Bylo_nas_pet_007.htm"
@@ -285,6 +285,6 @@
       "user": "books-are-next",
       "repo": "bylo-nas-pet"
     },
-    "generatedAt": 1638434409533
+    "generatedAt": 1652351316956
   }
 }

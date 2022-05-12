@@ -1,21 +1,32 @@
 {
-  "author": "Karel Poláček",
-  "edition": "beletrie",
-  "identifier": "polacek-bylo-nas-pet-c0df3ba",
-  "languagecode": "cs",
-  "modified": "2021-09-13T18:21:39.837Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Bylo nás pět",
-  "revision": "c0df3ba",
+  "author": "Karel Poláček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "polacek-bylo-nas-pet-ff6726b",
+  "revision": "ff6726b",
+  "readingOrder": [
+    "promo.html",
+    "bylo_nas_pet_005.html",
+    "bylo_nas_pet_006.html",
+    "bylo_nas_pet_007.html",
+    "bylo_nas_pet_008.html",
+    "bylo_nas_pet_009.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 02 2021 08:41:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638434469462
+    "date": "Thu May 12 2022 10:36:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351761192
   },
   "documents": [
     {
-      "title": "Bylo nás pět",
-      "file": "bylo_nas_pet_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +34,17 @@
       "order": 0,
       "prev": null,
       "next": "bylo_nas_pet_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Upozornění pro čtenáře • Bylo nás pět",
+      "title": "Upozornění pro čtenáře",
       "file": "bylo_nas_pet_005.html",
       "words": 93,
       "chars": 625,
       "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "bylo_nas_pet_002.html",
+      "prev": "promo.html",
       "next": "bylo_nas_pet_006.html",
       "toc": [
         {
@@ -54,7 +57,7 @@
       ]
     },
     {
-      "title": "1/2/3/4/5 • Bylo nás pět",
+      "title": "1/2/3/4/5",
       "file": "bylo_nas_pet_006.html",
       "words": 54600,
       "chars": 303193,
@@ -74,11 +77,11 @@
       ]
     },
     {
-      "title": "Ediční\npoznámka • Bylo nás pět",
+      "title": "Ediční poznámka",
       "file": "bylo_nas_pet_007.html",
       "words": 49,
-      "chars": 375,
-      "ideas": 5,
+      "chars": 376,
+      "ideas": 4,
       "role": "chapter",
       "order": 3,
       "prev": "bylo_nas_pet_006.html",
@@ -87,14 +90,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Ediční\npoznámka",
+          "name": "Ediční poznámka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Bibliografie díla Karla Poláčka • Bylo nás pět",
+      "title": "Bibliografie díla Karla Poláčka",
       "file": "bylo_nas_pet_008.html",
       "words": 125,
       "chars": 782,
@@ -114,7 +117,7 @@
       ]
     },
     {
-      "title": "Poznámky pod čarou • Bylo nás pět",
+      "title": "Poznámky pod čarou",
       "file": "bylo_nas_pet_009.html",
       "words": 289,
       "chars": 1772,
@@ -134,11 +137,11 @@
       ]
     },
     {
-      "title": "Tiráž • Bylo nás pět",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 175,
-      "chars": 1181,
-      "ideas": 22,
+      "words": 148,
+      "chars": 980,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "bylo_nas_pet_009.html",
@@ -156,14 +159,14 @@
   ],
   "totals": {
     "all": {
-      "words": 55338,
-      "chars": 307964,
-      "ideas": 1230
+      "words": 55311,
+      "chars": 307764,
+      "ideas": 1224
     },
     "chapters": {
       "words": 55156,
-      "chars": 306747,
-      "ideas": 1204
+      "chars": 306748,
+      "ideas": 1203
     }
   }
 }
