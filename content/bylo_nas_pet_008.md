@@ -1,5 +1,6 @@
 ---
 title: Bibliografie díla Karla Poláčka
+contentType: prose
 ---
 
 Povídky pana Kočkodana (1922)

@@ -1,7 +1,6 @@
 ---
-title: |-
-  Ediční
-  poznámka
+title: Ediční poznámka
+contentType: prose
 ---
 
 Při zpracování textu jsme se řídili aktuálním zněním pravidel českého pravopisu, upravili jsme interpunkci a opravili tiskové chyby. Respektovali jsme však stylové, morfologické a lexikální zvláštnosti původního Poláčkova textu.

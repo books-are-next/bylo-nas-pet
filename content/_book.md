@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Bylo nás pět
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - bylo_nas_pet_002.html
+  - promo.html
   - bylo_nas_pet_005.html
   - bylo_nas_pet_006.html
   - bylo_nas_pet_007.html

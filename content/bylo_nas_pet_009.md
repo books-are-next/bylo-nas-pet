@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) Dětská hra s malým dřevěným špalíkem a tyčkou, kterým se špalík odpaluje do dálky. _Pozn. red._
