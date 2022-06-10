@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Dětská hra s malým dřevěným špalíkem a tyčkou, kterým se špalík odpaluje do dálky. _Pozn. red._
 
 [\[2\]](./resources/undefined) Skrofulosa – tuberkulóza mízních uzlin. _Pozn. red._
@@ -72,3 +74,5 @@ contentType: prose
 [\[34\]](./resources/undefined) Místo mezi kamny a zdí, kde se dá sedět, příp. ležet. _Pozn. red._
 
 [\[35\]](./resources/undefined) Pletenec vlasů, cop, vrkoč. _Pozn. red._
+
+</section>

@@ -2,19 +2,15 @@
 title: Tiráž
 ---
 
+<section>  
 **Karel Poláček**  
 **Bylo nás pět**  
 Edice E-knihovna  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla Bylo nás pět tak, jak bylo vydáno nakladatelstvím Československý spisovatel v roce 1979 (POLÁČEK, Karel. _Bylo nás pět._ Vydání dvanácté, v ČS šesté. Praha: Československý spisovatel, 1979. 219 s.).
-
-Autor portrétu Karla Poláčka na obálce e-knihy je neznámý.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -32,4 +28,4 @@ Vydání (obálka, upoutávka, citační stránka a tiráž), jehož autorem je 
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel_. Bylo nás pět_ \[online\].  Praha: Městská knihovna v Praze, 2016 \[cit. 12. 5. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z: <next-book-url>
+POLÁČEK, Karel_. Bylo nás pět_ \[online\].  Praha: Městská knihovna v Praze, 2016 \[cit. 10. 6. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z: <next-book-url>
