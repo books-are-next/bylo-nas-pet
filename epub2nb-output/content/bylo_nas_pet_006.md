@@ -3,6 +3,8 @@ title: 1/2/3/4/5
 contentType: prose
 ---
 
+<section>
+
 Do školy chodím každý den kolem jednopatrového domu, na kterém je štít s nápisem Martin Bejval. A pod tím jest tiskacím písmem napsáno: Povoznictví a obchod uhlím. Ten nápis je modře a červeně vymalovaný a po obou stranách jsou zkřížená kladívka, což se mi velice líbí. Ale ještě více se mně líbí koňská hlava, co je přidělaná mezi dvěma okny v prvním patře. Když jsem byl malý, tak se mně ta hlava nic, ale docela nic nelíbila, jelikož jsem se jí bál. Ona má pořád otevřenou hubu a cení zuby. Ušklíbá se tak, jako by na mne něco věděla, počkej, ty kluku nezdárná, já to na tebe řeknu. Chodil jsem na ni žalovat, že se v jednom kuse na mne šklebí a já jí přece nic nedělám. To ona pořád začíná, ať si to nechá! Maminka mne musila chlácholit a pravila, že ta hlava mně nic nemůže udělat, jelikož je dřevěná.
 
 Ale to mně mohla říkat pořád a já jsem jí nechtěl věřit, jelikož jsem byl děsně hloupý. A když jsem šel kolem Bejvalů, tak jsem velice rychle utíkal. Já jsem si myslil, že koňská hlava povídá na mne šeptem všelijaké klepy. Někdy jsem poslouchal, jak šeptá: Pročs nejedl dneska polévku, takovou dobrou polévku? Já vím, žes trápil zrzavého kocoura Honzu, jelikož jsi mu přidělal na tlapky ořechové skořápky, a on chodil po baráku a hlučně klapal a byl z toho velice mrzutý, jak k tomu přijde? Nevíš, že cítí bolest jako ty, nedělej mu trampoty. A kdo vydloubal služce Kristýně rozinky z vánočky, hé!
@@ -2317,3 +2319,5 @@ Eva chvíli přemýšlela a pak smutně zavrtěla hlavou.
 „Nic nevím,“ pravila. „Nikde jsem nebyla. Z domova jsem paty nevytáhla. Škoda. Indická veselka – to musí být něco báchorečného.“
 
 Když Eva odešla, tak jsem se podíval na své nohy. Mám nohy vrabčí. Zkoušel jsem se projít po pokoji, ale nesvedl jsem to. Bylo mně dusno a hlava se mně točila. Myslím si, že bych nepřemohl ani Vendu Štěpánkového. Ale já brzy okřeju a zesílím, a pak se každému postavím. Á-no! To se mně chce – spát –
+
+</section>

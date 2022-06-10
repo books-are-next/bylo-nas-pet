@@ -3,6 +3,8 @@ title: Bibliografie díla Karla Poláčka
 contentType: prose
 ---
 
+<section>
+
 Povídky pana Kočkodana (1922)
 
 Mariáš a jiné živnosti (1924)
@@ -62,3 +64,5 @@ Bylo nás pět (1946)
 Ze soudní síně (1956)
 
 Se žlutou hvězdou (1959)
+
+</section>
