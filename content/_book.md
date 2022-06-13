@@ -21,16 +21,19 @@ readingOrder:
   - bylo_nas_pet_009.html
   - colophon.html
 tocBase:
-  - link: bylo_nas_pet_005.html
-    title: Upozornění pro čtenáře
-  - link: bylo_nas_pet_006.html
-    title: 1/2/3/4/5
-  - link: bylo_nas_pet_007.html
-    title: Ediční poznámka
-  - link: bylo_nas_pet_008.html
-    title: Bibliografie díla Karla Poláčka
-  - link: bylo_nas_pet_009.html
-    title: Poznámky pod čarou
+  - id: section-1
+    children:
+      - link: bylo_nas_pet_005.html
+        title: Upozornění pro čtenáře
+      - link: bylo_nas_pet_006.html
+        title: 1/2/3/4/5
+      - link: bylo_nas_pet_007.html
+        title: Ediční poznámka
+      - link: bylo_nas_pet_008.html
+        title: Bibliografie díla Karla Poláčka
+      - link: bylo_nas_pet_009.html
+        title: Poznámky pod čarou
+    isSection: true
 static:
   - style
   - scripts
