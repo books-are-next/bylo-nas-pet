@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-bylo-nas-pet-1ca7bda",
-  "revision": "1ca7bda",
+  "identifier": "polacek-bylo-nas-pet-92d3bb6",
+  "revision": "92d3bb6",
   "readingOrder": [
     "promo.html",
     "bylo_nas_pet_005.html",
@@ -20,8 +20,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:50:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948255306
+    "date": "Mon Jun 13 2022 21:52:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157151269
   },
   "documents": [
     {
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 77,
-      "chars": 540,
-      "ideas": 8,
+      "words": 148,
+      "chars": 980,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "bylo_nas_pet_009.html",
@@ -159,9 +159,9 @@
   ],
   "totals": {
     "all": {
-      "words": 55240,
-      "chars": 307324,
-      "ideas": 1215
+      "words": 55311,
+      "chars": 307764,
+      "ideas": 1224
     },
     "chapters": {
       "words": 55156,

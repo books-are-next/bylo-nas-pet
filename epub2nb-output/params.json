@@ -31,99 +31,105 @@
     },
     "structure": [
       {
-        "filename": "bylo_nas_pet_001.md",
-        "xhtml": "Bylo_nas_pet_001.htm",
-        "id": 0,
-        "role": "cover",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "bylo_nas_pet_002.md",
-        "xhtml": "Bylo_nas_pet_002.htm",
-        "id": 1,
-        "role": "promo",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "bylo_nas_pet_003.md",
-        "xhtml": "Bylo_nas_pet_003.htm",
-        "id": 2,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "bylo_nas_pet_004.md",
-        "xhtml": "Bylo_nas_pet_004.htm",
-        "id": 3,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
-      },
-      {
-        "filename": "bylo_nas_pet_005.md",
-        "xhtml": "Bylo_nas_pet_005.htm",
-        "id": 4,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Upozornění pro čtenáře"
-      },
-      {
-        "filename": "bylo_nas_pet_006.md",
-        "xhtml": "Bylo_nas_pet_006.htm",
-        "id": 5,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "1/2/3/4/5"
-      },
-      {
-        "filename": "bylo_nas_pet_007.md",
-        "xhtml": "Bylo_nas_pet_007.htm",
-        "id": 6,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Ediční poznámka"
-      },
-      {
-        "filename": "bylo_nas_pet_008.md",
-        "xhtml": "Bylo_nas_pet_008.htm",
-        "id": 7,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Bibliografie díla Karla Poláčka"
-      },
-      {
-        "filename": "bylo_nas_pet_009.md",
-        "xhtml": "Bylo_nas_pet_009.htm",
-        "id": 8,
-        "role": "chapter",
-        "numberedChildren": false,
-        "inToc": true,
-        "children": [],
-        "title": "Poznámky pod čarou"
-      },
-      {
-        "filename": "bylo_nas_pet_010.md",
-        "xhtml": "Bylo_nas_pet_010.htm",
-        "id": 9,
-        "role": "colophon",
-        "numberedChildren": false,
-        "inToc": false,
-        "children": []
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "bylo_nas_pet_001.md",
+            "xhtml": "Bylo_nas_pet_001.htm",
+            "id": 0,
+            "role": "cover",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "bylo_nas_pet_002.md",
+            "xhtml": "Bylo_nas_pet_002.htm",
+            "id": 1,
+            "role": "promo",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "bylo_nas_pet_003.md",
+            "xhtml": "Bylo_nas_pet_003.htm",
+            "id": 2,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "bylo_nas_pet_004.md",
+            "xhtml": "Bylo_nas_pet_004.htm",
+            "id": 3,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          },
+          {
+            "filename": "bylo_nas_pet_005.md",
+            "xhtml": "Bylo_nas_pet_005.htm",
+            "id": 4,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Upozornění pro čtenáře"
+          },
+          {
+            "filename": "bylo_nas_pet_006.md",
+            "xhtml": "Bylo_nas_pet_006.htm",
+            "id": 5,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "1/2/3/4/5"
+          },
+          {
+            "filename": "bylo_nas_pet_007.md",
+            "xhtml": "Bylo_nas_pet_007.htm",
+            "id": 6,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Ediční poznámka"
+          },
+          {
+            "filename": "bylo_nas_pet_008.md",
+            "xhtml": "Bylo_nas_pet_008.htm",
+            "id": 7,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Bibliografie díla Karla Poláčka"
+          },
+          {
+            "filename": "bylo_nas_pet_009.md",
+            "xhtml": "Bylo_nas_pet_009.htm",
+            "id": 8,
+            "role": "chapter",
+            "numberedChildren": false,
+            "inToc": true,
+            "children": [],
+            "title": "Poznámky pod čarou"
+          },
+          {
+            "filename": "bylo_nas_pet_010.md",
+            "xhtml": "Bylo_nas_pet_010.htm",
+            "id": 9,
+            "role": "colophon",
+            "numberedChildren": false,
+            "inToc": false,
+            "children": []
+          }
+        ]
       }
     ]
   },
@@ -285,6 +291,6 @@
       "user": "books-are-next",
       "repo": "bylo-nas-pet"
     },
-    "generatedAt": 1654948130729
+    "generatedAt": 1655156679353
   }
 }
