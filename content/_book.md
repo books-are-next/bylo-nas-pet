@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - bylo_nas_pet_005.html

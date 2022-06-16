@@ -8,7 +8,7 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 15. 6. 2022.
+V MKP 2. elektronické vydání z 16. 6. 2022.
 
 ***
 
@@ -28,7 +28,7 @@ Vydání (obálka, upoutávka, citační stránka a tiráž), jehož autorem je 
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel_. Bylo nás pět_ \[online\]. V MKP 2. elektronické vydání z 15. 6. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 15. 6. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z <[books-are-next.github.io/bylo-nas-pet](https://books-are-next.github.io/bylo-nas-pet/)>.
+POLÁČEK, Karel_. Bylo nás pět_ \[online\]. V MKP 2. elektronické vydání z 16. 6. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 16. 6. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z <[books-are-next.github.io/bylo-nas-pet](https://books-are-next.github.io/bylo-nas-pet/)>.
 
 ***
 
