@@ -8,7 +8,8 @@
       "modified": "2021-09-13T18:21:39.837Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "e-booknadpis",
@@ -291,6 +292,6 @@
       "user": "books-are-next",
       "repo": "bylo-nas-pet"
     },
-    "generatedAt": 1655271232073
+    "generatedAt": 1655364082911
   }
 }
