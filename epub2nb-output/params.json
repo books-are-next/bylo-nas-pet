@@ -57,7 +57,7 @@
             "filename": "bylo_nas_pet_003.md",
             "xhtml": "Bylo_nas_pet_003.htm",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -66,7 +66,7 @@
             "filename": "bylo_nas_pet_004.md",
             "xhtml": "Bylo_nas_pet_004.htm",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -125,7 +125,7 @@
             "filename": "bylo_nas_pet_010.md",
             "xhtml": "Bylo_nas_pet_010.htm",
             "id": 9,
-            "role": "colophon",
+            "role": "about",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -292,6 +292,6 @@
       "user": "books-are-next",
       "repo": "bylo-nas-pet"
     },
-    "generatedAt": 1655978027267
+    "generatedAt": 1657181670125
   }
 }
