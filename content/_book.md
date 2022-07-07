@@ -20,7 +20,7 @@ readingOrder:
   - bylo_nas_pet_007.html
   - bylo_nas_pet_008.html
   - bylo_nas_pet_009.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
