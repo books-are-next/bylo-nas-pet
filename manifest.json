@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-bylo-nas-pet-1e72a2a",
-  "revision": "1e72a2a",
+  "identifier": "polacek-bylo-nas-pet-cc562e0",
+  "revision": "cc562e0",
   "readingOrder": [
     "promo.html",
     "bylo_nas_pet_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:42:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414527745
+    "date": "Thu Sep 29 2022 21:19:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486359723
   },
   "documents": [
     {
@@ -60,7 +60,7 @@
       "title": "1/2/3/4/5",
       "file": "bylo_nas_pet_006.html",
       "words": 54600,
-      "chars": 303193,
+      "chars": 303228,
       "ideas": 1127,
       "role": "chapter",
       "order": 2,
@@ -120,7 +120,7 @@
       "title": "Poznámky pod čarou",
       "file": "bylo_nas_pet_009.html",
       "words": 289,
-      "chars": 1772,
+      "chars": 1807,
       "ideas": 36,
       "role": "chapter",
       "order": 5,
@@ -160,12 +160,12 @@
   "totals": {
     "all": {
       "words": 55339,
-      "chars": 307981,
+      "chars": 308051,
       "ideas": 1225
     },
     "chapters": {
       "words": 55156,
-      "chars": 306748,
+      "chars": 306818,
       "ideas": 1203
     }
   }
