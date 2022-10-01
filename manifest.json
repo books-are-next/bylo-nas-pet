@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-bylo-nas-pet-cc562e0",
-  "revision": "cc562e0",
+  "identifier": "polacek-bylo-nas-pet-065b551",
+  "revision": "065b551",
   "readingOrder": [
     "promo.html",
     "bylo_nas_pet_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:19:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486359723
+    "date": "Sat Oct 01 2022 15:51:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639494097
   },
   "documents": [
     {
@@ -59,9 +59,9 @@
     {
       "title": "1/2/3/4/5",
       "file": "bylo_nas_pet_006.html",
-      "words": 54600,
-      "chars": 303228,
-      "ideas": 1127,
+      "words": 54886,
+      "chars": 304816,
+      "ideas": 1162,
       "role": "chapter",
       "order": 2,
       "prev": "bylo_nas_pet_005.html",
@@ -119,9 +119,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "bylo_nas_pet_009.html",
-      "words": 289,
-      "chars": 1807,
-      "ideas": 36,
+      "words": 575,
+      "chars": 3395,
+      "ideas": 71,
       "role": "chapter",
       "order": 5,
       "prev": "bylo_nas_pet_008.html",
@@ -139,9 +139,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 176,
-      "chars": 1197,
-      "ideas": 18,
+      "words": 167,
+      "chars": 1154,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "bylo_nas_pet_009.html",
@@ -159,14 +159,14 @@
   ],
   "totals": {
     "all": {
-      "words": 55339,
-      "chars": 308051,
-      "ideas": 1225
+      "words": 55902,
+      "chars": 311184,
+      "ideas": 1294
     },
     "chapters": {
-      "words": 55156,
-      "chars": 306818,
-      "ideas": 1203
+      "words": 55728,
+      "chars": 309994,
+      "ideas": 1273
     }
   }
 }
