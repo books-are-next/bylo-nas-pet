@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-bylo-nas-pet-f72f3c6",
-  "revision": "f72f3c6",
+  "identifier": "polacek-bylo-nas-pet-f4bef2a",
+  "revision": "f4bef2a",
   "readingOrder": [
     "promo.html",
     "bylo_nas_pet_005.html",
@@ -20,8 +20,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:47:19 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923639364
+    "date": "Fri Oct 07 2022 14:01:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151265054
   },
   "documents": [
     {
