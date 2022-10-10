@@ -43,7 +43,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^33]: Zde: podšívka. _Pozn. red._  
 [^34]: Místo mezi kamny a zdí, kde se dá sedět, příp. ležet. _Pozn. red._  
 [^35]: Pletenec vlasů, cop, vrkoč. _Pozn. red._  
-V MKP 2. elektronické vydání z 7. 10. 2022.
+V MKP 2. elektronické vydání z 10. 10. 2022.
 
 ***
 
@@ -63,7 +63,7 @@ Vydání (obálka, upoutávka, citační stránka a tiráž), jehož autorem je 
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel_. Bylo nás pět_ \[online\]. V MKP 2. elektronické vydání z 7. 10. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 7. 10. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z <[books-are-next.github.io/bylo-nas-pet](https://books-are-next.github.io/bylo-nas-pet/)>.
+POLÁČEK, Karel_. Bylo nás pět_ \[online\]. V MKP 2. elektronické vydání z 10. 10. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 10. 10. 2022]. ISBN 978-80-7532-194-7 (epub). Dostupné z <[books-are-next.github.io/bylo-nas-pet](https://books-are-next.github.io/bylo-nas-pet/)>.
 
 ***
 
